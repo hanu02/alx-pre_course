@@ -1,1 +1,1 @@
-“this is my second commi of github”
+“this is my second commit of github”
